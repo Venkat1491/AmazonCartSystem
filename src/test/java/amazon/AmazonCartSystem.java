@@ -49,7 +49,7 @@ public class AmazonCartSystem {
 		 
 		 System.out.println(newWindowTitle);
 		 
-		 
+		 System.out.println("new page is added");
 		 
 		 
 		 
